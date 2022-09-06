@@ -1,2 +1,3 @@
-echo '#!/bin/bash 
+echo 
+#!/bin/bash 
 sort | uniq -u
