@@ -1,4 +1,1 @@
-echo '#!/bin/bash
-tail -1 < iacta >> iacta'>
-~
-
+echo '#!/bin/bash tail -1 < iacta >> iacta'>
